@@ -43,7 +43,7 @@ The most comprehensive and advanced FIFA World Cup 2026 prediction system ever b
 
 ### Installation
 
-1. **Clone or download** the `fifa_predictor_2026.py` file
+1. **Clone or download** the `app.py` file
 
 2. **Install dependencies**:
    ```bash
